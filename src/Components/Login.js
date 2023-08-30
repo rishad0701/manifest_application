@@ -30,6 +30,7 @@ const Login = () => {
                 usenavigate('/');
                 toast.success('Login Succesfull!!!', {position: "top-right",autoClose: 5000,hideProgressBar: false,closeOnClick: true,pauseOnHover: true,draggable: true,progress: undefined,theme: "colored",});
             }
+            
             else{
                 usenavigate('/login');
                 alert("Enter valid credentials");

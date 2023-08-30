@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/manifest_application/static/css/main.1845ebf4.css",
+    "main.js": "/manifest_application/static/js/main.43176d60.js",
+    "static/js/787.1e255324.chunk.js": "/manifest_application/static/js/787.1e255324.chunk.js",
+    "static/media/pic.jpg": "/manifest_application/static/media/pic.1c4c92cabb6e0a2a8889.jpg",
+    "index.html": "/manifest_application/index.html",
+    "main.1845ebf4.css.map": "/manifest_application/static/css/main.1845ebf4.css.map",
+    "main.43176d60.js.map": "/manifest_application/static/js/main.43176d60.js.map",
+    "787.1e255324.chunk.js.map": "/manifest_application/static/js/787.1e255324.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1845ebf4.css",
+    "static/js/main.43176d60.js"
+  ]
+}
